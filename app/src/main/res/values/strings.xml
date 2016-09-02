@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">---=== VK haX0r эдишон ===---</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_login">Тлфн или email</string>
+    <string name="prompt_password">Пар-ль</string>
+    <string name="action_sign_in">Пустите скрее VK стынет!</string>
+    <string name="action_sign_in_short">Завойти</string>
+    <string name="error_invalid_login">Это чота не тот логин (((</string>
+    <string name="error_invalid_password">Чота пароль invalid (</string>
+    <string name="error_empty_password">Чота пароль пустой ((</string>
+    <string name="error_incorrect_password">Пароль нитот, пичалька((</string>
+    <string name="error_field_required">Обязательно что-то напиши сюда, username !</string>
+    <string name="permission_rationale">"Дай разрешение на интернеты, ну дааай" </string>
+
+    <string name="com_VK_SDK_AppId">5602791</string>
+    <string name="com_vk_sdk_Ver">5.53</string>
+</resources>
