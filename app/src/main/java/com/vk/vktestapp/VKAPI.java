@@ -81,8 +81,8 @@ public class VKAPI {
             e.printStackTrace();
 
         }
-        System.out.println(response);
-        System.out.println(status);
+   //     System.out.println(response);
+  //      System.out.println(status);
         String stringResponse = response.toString();
 
         // если в ответе есть строка error_code, то токен неправильный
@@ -147,7 +147,7 @@ public class VKAPI {
                     // сохраняю в sharedPreferences
                     account.save(view.getContext());
 
-                    System.out.println(accessToken + " " + userID);
+                //    System.out.println(accessToken + " " + userID);
                 }
             }
         }
